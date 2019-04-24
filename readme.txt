@@ -1,0 +1,2 @@
+In NXP directory is stored materials about my embedded projects in NXP Semiconductors including source code from C and Assembler
+In Kurz_OOP directory are code examples from OOP Course at VSB TU Ostrava - C# and Java examples
